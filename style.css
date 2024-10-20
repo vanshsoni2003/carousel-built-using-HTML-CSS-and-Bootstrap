@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.carousel-item{ 
+    height: 700px;
+    width: 100%;
+ }
+/* .carousel{ */
+    /* height: 100px;
+    width: 100%; */
+    /* color: navy; */
+    /* background-color: yellow; */
+/* } */
+/* .nepe{
+    border: none;
+    background-color: rgba(255, 248, 248, 0);
+} */
